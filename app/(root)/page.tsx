@@ -13,7 +13,6 @@ export default async function Home() {
     limit: 6
   })
 
-  console.log(events);
 
   return (
     <>
