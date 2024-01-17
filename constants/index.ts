@@ -13,6 +13,7 @@ export const headerLinks = [
     },
   ]
   
+  // defailt values for the event form:
   export const eventDefaultValues = {
     title: '',
     description: '',
